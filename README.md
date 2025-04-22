@@ -1,10 +1,11 @@
-## Hi, I'm Femi
+## Hi, I'm Akinfemi
 
 🧠 Software Engineering Student @ Babcock University <br />
 🧑🏾‍💻 Frontend Developer <br />
 🎨 UI/UX Designer <br />
 🙋🏾‍♂️ I design and code various websites <br />
 📷 I'm also a photographer <br />
+
 
 
 ## 🌐 Socials:
@@ -16,9 +17,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=elphie-pro&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=elphie-pro&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elphie-pro&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=elphie-pro&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=elphie-pro&limit=5&theme=dark&combine_all_yearly_contributions=true)
